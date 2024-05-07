@@ -81,3 +81,11 @@ p {
 .mb-1-6, .my-1-6 {
     margin-bottom: 1.6rem;
 }
+
+.ul-toggeable {
+    list-style:none;
+}
+
+.more{
+    color:red; cursor:pointer;
+}
